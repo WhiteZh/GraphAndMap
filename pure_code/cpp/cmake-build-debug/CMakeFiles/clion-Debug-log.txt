@@ -1,0 +1,4 @@
+"/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp" -B "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug
