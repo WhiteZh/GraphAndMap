@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_solution: phony || CMakeFiles/solution.d
 
 build CMakeFiles/solution.dir/src/main.cpp.o: CXX_COMPILER__solution_Debug /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/src/main.cpp || cmake_object_order_depends_target_solution
   DEP_FILE = CMakeFiles/solution.dir/src/main.cpp.o.d
-  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++2b
   OBJECT_DIR = CMakeFiles/solution.dir
   OBJECT_FILE_DIR = CMakeFiles/solution.dir/src
 
