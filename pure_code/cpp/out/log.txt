@@ -1,0 +1,4 @@
+Program started!
+Initialization sucessful!
+Result calculation succeeded!
+Output wrote!
