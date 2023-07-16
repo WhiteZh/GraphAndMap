@@ -1,21 +1,7 @@
 # ninja log v5
-16	2544	1689428892796211804	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-2544	2667	1689428892925658731	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-14	2584	1689429930926013443	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-2584	2722	1689429931068937446	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-14	2811	1689430574045780996	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-2811	2955	1689430574197549256	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-13	3277	1689431253464207753	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3278	3445	1689431253640259514	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-15	3109	1689431741418747598	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3110	3248	1689431741562851489	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-14	3139	1689432327636914689	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3139	3277	1689432327780125299	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-13	2999	1689432572135634696	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3000	3139	1689432572281215356	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-13	3325	1689432974299236610	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3325	3460	1689432974441332777	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-14	2950	1689433178298332175	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-2950	3072	1689433178427354223	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
-12	3050	1689433708172408416	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
-3050	3194	1689433708322045244	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
+12	2034	1689484223004524358	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
+2035	2136	1689484223111906377	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
+11	2461	1689518590635207851	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
+2461	2670	1689518590847828191	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01
+13	2088	1689521048892002363	CMakeFiles/solution.dir/src/main.cpp.o	fc3a06dcdef6a3cf
+2088	2225	1689521049037062771	/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution	241d1f939e874a01

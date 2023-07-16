@@ -12,7 +12,7 @@
 
 # =============================================================================
 # Project: Train_Problem
-# Configurations: Debug
+# Configurations: Release
 # =============================================================================
 
 #############################################
@@ -24,7 +24,7 @@ ninja_required_version = 1.5
 #############################################
 # Set configuration variable for custom commands.
 
-CONFIGURATION = Debug
+CONFIGURATION = Release
 # =============================================================================
 # Include auxiliary files.
 
@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/cmake-build-debug/
+cmake_ninja_workdir = /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/cmake-build-release/
 # =============================================================================
 # Object build statements for EXECUTABLE target solution
 
@@ -49,9 +49,9 @@ cmake_ninja_workdir = /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Person
 
 build cmake_object_order_depends_target_solution: phony || CMakeFiles/solution.dir
 
-build CMakeFiles/solution.dir/src/main.cpp.o: CXX_COMPILER__solution_Debug /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/src/main.cpp || cmake_object_order_depends_target_solution
+build CMakeFiles/solution.dir/src/main.cpp.o: CXX_COMPILER__solution_Release /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/src/main.cpp || cmake_object_order_depends_target_solution
   DEP_FILE = CMakeFiles/solution.dir/src/main.cpp.o.d
-  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++2b
+  FLAGS = -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fcolor-diagnostics -std=gnu++2b
   OBJECT_DIR = CMakeFiles/solution.dir
   OBJECT_FILE_DIR = CMakeFiles/solution.dir/src
 
@@ -63,8 +63,8 @@ build CMakeFiles/solution.dir/src/main.cpp.o: CXX_COMPILER__solution_Debug /User
 #############################################
 # Link the executable /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/out/solution
 
-build /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/out/solution: CXX_EXECUTABLE_LINKER__solution_Debug CMakeFiles/solution.dir/src/main.cpp.o
-  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2
+build /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/out/solution: CXX_EXECUTABLE_LINKER__solution_Release CMakeFiles/solution.dir/src/main.cpp.o
+  FLAGS = -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2
   OBJECT_DIR = CMakeFiles/solution.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -76,7 +76,7 @@ build /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Aca
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug" && "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release" && "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -87,7 +87,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug" && "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S"/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp" -B"/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug"
+  COMMAND = cd "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release" && "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S"/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp" -B"/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -105,7 +105,7 @@ build solution: phony /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Person
 # =============================================================================
 
 #############################################
-# Folder: /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug
+# Folder: /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release
 
 build all: phony /Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer$ Programs/G10$ Summer/Browns/Projects/Graph$ And$ Map/pure_code/cpp/out/solution
 

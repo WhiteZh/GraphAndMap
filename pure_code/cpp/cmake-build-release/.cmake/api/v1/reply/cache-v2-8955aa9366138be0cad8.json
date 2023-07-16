@@ -34,18 +34,6 @@
 			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar"
 		},
 		{
-			"name" : "CMAKE_BACKWARDS_COMPATIBILITY",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "For backwards compatibility, what version of CMake commands and syntax should this version of CMake try to support."
-				}
-			],
-			"type" : "STRING",
-			"value" : "2.4"
-		},
-		{
 			"name" : "CMAKE_BUILD_TYPE",
 			"properties" : 
 			[
@@ -55,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : "Release"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -67,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug"
+			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -127,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -139,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/bin/cpack"
+			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -151,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/bin/ctest"
+			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -491,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -607,7 +595,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/ninja/mac/ninja"
+			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/ninja/mac/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +863,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25"
+			"value" : "/Users/whitewolfzhang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1114,66 +1102,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "EXECUTABLE_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all executables."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "LIBRARY_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all libraries."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp"
-		},
-		{
 			"name" : "Train_Problem_BINARY_DIR",
 			"properties" : 
 			[
@@ -1183,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-debug"
+			"value" : "/Users/whitewolfzhang/Library/CloudStorage/OneDrive-Personal/Documents/Acadamic/Summer Programs/G10 Summer/Browns/Projects/Graph And Map/pure_code/cpp/cmake-build-release"
 		},
 		{
 			"name" : "Train_Problem_IS_TOP_LEVEL",
